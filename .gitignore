@@ -1,0 +1,7 @@
+.bashrc
+.cache/
+.config/
+.docker/
+.ipython/
+.jupyter/
+.local/
